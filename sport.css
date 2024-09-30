@@ -1,0 +1,411 @@
+.sport-container {
+  width: 100%;
+  height: 1250px;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.sport-amzsport {
+  top: -11px;
+  left: 0px;
+  width: 2272px;
+  height: 1317px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sport-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 2264px;
+  height: 128px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.sport-whats-app-bild20240925um2013343571e0fb2 {
+  top: 0px;
+  left: 0px;
+  width: 325px;
+  height: 128px;
+  position: absolute;
+}
+.sport-mdicartoutline {
+  top: 22px;
+  left: 2151px;
+  width: 73px;
+  height: 73px;
+  position: absolute;
+}
+.sport-text10 {
+  top: 17px;
+  left: 337px;
+  color: rgba(255, 255, 255, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text12 {
+  top: 17px;
+  left: 1839px;
+  color: rgba(255, 255, 255, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-group11 {
+  top: 189px;
+  left: 0px;
+  width: 2264px;
+  height: 551px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.sport-rectangle51 {
+  top: 53px;
+  left: 81px;
+  width: 396px;
+  height: 305px;
+  position: absolute;
+}
+.sport-rectangle52 {
+  top: 53px;
+  left: 647px;
+  width: 396px;
+  height: 305px;
+  position: absolute;
+}
+.sport-rectangle53 {
+  top: 53px;
+  left: 1213px;
+  width: 396px;
+  height: 305px;
+  position: absolute;
+}
+.sport-rectangle54 {
+  top: 53px;
+  left: 1779px;
+  width: 396px;
+  height: 305px;
+  position: absolute;
+}
+.sport-text14 {
+  top: 358px;
+  left: 84px;
+  color: rgba(0, 0, 0, 1);
+  width: 393px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text16 {
+  top: 358px;
+  left: 650px;
+  color: rgba(0, 0, 0, 1);
+  width: 393px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text18 {
+  top: 431px;
+  left: 81px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text20 {
+  top: 431px;
+  left: 647px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text22 {
+  top: 363px;
+  left: 1216px;
+  color: rgba(0, 0, 0, 1);
+  width: 393px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text24 {
+  top: 363px;
+  left: 1782px;
+  color: rgba(0, 0, 0, 1);
+  width: 393px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text26 {
+  top: 436px;
+  left: 1213px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text28 {
+  top: 436px;
+  left: 1779px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-group12 {
+  top: 740px;
+  left: 0px;
+  width: 2264px;
+  height: 551px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.sport-rectangle55 {
+  top: 53px;
+  left: 81px;
+  width: 396px;
+  height: 305px;
+  position: absolute;
+}
+.sport-rectangle56 {
+  top: 53px;
+  left: 647px;
+  width: 396px;
+  height: 305px;
+  position: absolute;
+}
+.sport-rectangle57 {
+  top: 53px;
+  left: 1213px;
+  width: 396px;
+  height: 305px;
+  position: absolute;
+}
+.sport-rectangle58 {
+  top: 53px;
+  left: 1779px;
+  width: 396px;
+  height: 305px;
+  position: absolute;
+}
+.sport-text30 {
+  top: 358px;
+  left: 84px;
+  color: rgba(0, 0, 0, 1);
+  width: 393px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text32 {
+  top: 358px;
+  left: 650px;
+  color: rgba(0, 0, 0, 1);
+  width: 393px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text34 {
+  top: 431px;
+  left: 81px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text36 {
+  top: 431px;
+  left: 647px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text38 {
+  top: 363px;
+  left: 1216px;
+  color: rgba(0, 0, 0, 1);
+  width: 393px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text40 {
+  top: 363px;
+  left: 1782px;
+  color: rgba(0, 0, 0, 1);
+  width: 393px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text42 {
+  top: 436px;
+  left: 1213px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sport-text44 {
+  top: 436px;
+  left: 1779px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
